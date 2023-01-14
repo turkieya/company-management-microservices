@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/Projet SOC/assignment-service/assignment-service.iml" filepath="$USER_HOME$/Desktop/Projet SOC/assignment-service/assignment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/company_management.iml" filepath="$PROJECT_DIR$/company_management.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Projet SOC/config-service/config-service.iml" filepath="$USER_HOME$/Desktop/Projet SOC/config-service/config-service.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Projet SOC/employee-service/employee-service.iml" filepath="$USER_HOME$/Desktop/Projet SOC/employee-service/employee-service.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Projet SOC/gateway-service/gateway-service.iml" filepath="$USER_HOME$/Desktop/Projet SOC/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Projet SOC/project-service/project-service.iml" filepath="$USER_HOME$/Desktop/Projet SOC/project-service/project-service.iml" />
+    </modules>
+  </component>
+</project>
